@@ -1,1 +1,13 @@
-All things are difficult befor they are easy.
+All things are difficult before they are easy.
+
+008 蔥爆雞柳飯 80$
+001 蒲燒鯛魚飯 75元
+016 蒲燒鯛魚飯 $75
+013 去骨油蔥雞腿飯 90元
+003 無骨雞排飯 75元
+023 沙茶羊肉飯90
+012 炸排骨飯 $80
+014 去骨脆皮大雞腿飯 90元
+007 去骨油蔥雞腿飯 90元
+020 特大香雞排飯 100
+022 醬汁香雞排飯 100元
