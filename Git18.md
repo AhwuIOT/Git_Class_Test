@@ -1,1 +1,1 @@
-git All things are difficult before they are easy.
+git All things are difficult before they are easy.YA YA YA
